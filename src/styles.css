@@ -66,6 +66,7 @@ pre {
   background-color: white;
   border-radius: 2px;
   color: red;
+  /*overflow-y: auto;*/
 }
 .inputs{
   display: flex;
