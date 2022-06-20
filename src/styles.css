@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+}
+
+p {
+  line-height: 1.5;
+}
+
+code,
+pre {
+  background-color: #eee;
+  font-family: monospace;
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+pre {
+  display: block;
+  padding: 6px 12px;
+  margin-right: 12px;
+}
